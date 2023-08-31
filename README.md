@@ -2,4 +2,4 @@
 
 ## di Paolino Paperino
 
-🌱 Sito per gestire gli appunti presi a lezione 🌱
+🌱 Sito per gestire gli appunti presi a lezione: [https://francescoscuola.github.io/](https://francescoscuola.github.io/) 🌱
